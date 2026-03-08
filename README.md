@@ -1,4 +1,4 @@
-# Upper Body Thermal Referral and Tactile Masking for Localized Feedback
+# Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](./Documentation/UIST24_ThermalMotion.pdf)
 [![Video](https://img.shields.io/badge/Video-Demo-blue)](https://www.youtube.com/watch?v=n2H_ylyzcbY)
