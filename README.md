@@ -48,18 +48,19 @@ The following components were used to build the [Project Name] prototype:
 If you use this work or the hardware design in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{10.1145/3613904.3641941,
-author = {Wang, Haokun and Singhal, Yatharth and Gil, Hyunjae and Kim, Jin Ryong},
-title = {Thermal Masking: When the Illusion Takes Over the Real},
+@inproceedings{10.1145/3654777.3676460,
+author = {Singhal, Yatharth and Honrales, Daniel and Wang, Haokun and Kim, Jin Ryong},
+title = {Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction},
 year = {2024},
-isbn = {9798400703300},
+isbn = {9798400706288},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3613904.3641941},
-doi = {10.1145/3613904.3641941},
-articleno = {419},
-numpages = {16},
-keywords = {Thermal perception, forearm, multisensory feedback, tactile masking, thermal illusion},
-location = {Honolulu, HI, USA},
-series = {CHI '24}
+url = {https://doi.org/10.1145/3654777.3676460},
+doi = {10.1145/3654777.3676460},
+booktitle = {Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology},
+articleno = {27},
+numpages = {13},
+keywords = {Haptics, Thermal Feedback, Thermal Masking, Thermal Motion, Thermal Referral, VR, Vibration-induced Thermal Illusions},
+location = {Pittsburgh, PA, USA},
+series = {UIST '24}
 }
